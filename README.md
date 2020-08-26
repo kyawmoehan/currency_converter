@@ -1,3 +1,8 @@
+# Currency Converter with React
+
+Currency Converter Project with React using API from http://exchangeratesapi.io/.
+
+![Currency Converter](./currency.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
